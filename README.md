@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pradeep1G
 - 👀 I’m interested in web development and python
-- 🌱 I’m currently learning web development, pyhton, c++
+- 🌱 I’m currently learning web development, python, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Write me on 7416320648
 
